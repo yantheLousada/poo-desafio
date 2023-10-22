@@ -1,0 +1,26 @@
+---------------------------------
+|           iPhone              |
+---------------------------------
+| +reprodutor: ReprodutorMusical|
+| +telefone: AparelhoTelefonico |
+| +navegador: NavegadorInternet |
+---------------------------------
+                |
+                |
+        -----------------
+        |               |
+ ----------------     -------------------
+ | Reprodutor |     | Aparelho Telefônico |
+ ----------------     -------------------
+ | +tocar()   |     | +ligar()            |
+ | +pausar()  |     | +atender()          |
+ | +selecionarMusica() | +iniciarChamada() |
+ ----------------     -------------------
+ 
+ ----------------
+ | Navegador    |
+ ----------------
+ | +exibirPagina()|
+ | +adicionarNovaAba()|
+ | +atualizarPagina()|
+ ----------------
